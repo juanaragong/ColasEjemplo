@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2U3_NumeroControlED3B", "A2U3_NumeroControlED3B.csproj", "{EF047410-CFA9-4228-8268-F7A437D679C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF047410-CFA9-4228-8268-F7A437D679C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF047410-CFA9-4228-8268-F7A437D679C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF047410-CFA9-4228-8268-F7A437D679C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF047410-CFA9-4228-8268-F7A437D679C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {721F1107-FF62-41E2-BB16-B19102208120}
+	EndGlobalSection
+EndGlobal
